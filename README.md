@@ -1,2 +1,2 @@
 # logical-exercises-java
-repo to practite 
+repo to practice 
